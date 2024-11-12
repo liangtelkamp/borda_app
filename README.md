@@ -1,6 +1,6 @@
 # Election Results Calculator Borda Count 
 
-This Streamlit app is designed to help users calculate election results using two different voting systems: Borda Count and Plurality Rule. It also includes functionality to check for the presence of a Condorcet loser among the candidates.
+This Streamlit app is designed to help users calculate election results using two different voting systems: Borda Count. It also includes functionality to check for the presence of a Condorcet loser among the candidates.
 
 ## Features
 
